@@ -23,7 +23,6 @@ Programa apresentado como aula no Youtube no canal de Larissa Kich, onde se é p
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Javascript
 - Git e Github
 
 ## 💻 Projeto
